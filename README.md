@@ -1,6 +1,10 @@
 ## To see the full project please go to my github repository by following this link:
 https://github.com/code50/144960811/tree/94628050a5010ecdce6cb072d3259677d2f3cddc/final
 
+# Video Walkthrough
+
+For a short video description of what I made and how, take a look at this YouTube link: https://youtu.be/GVJ3sMMTqlI
+
 ## About Longevity Uncapped
 
 # Longevity Uncapped
@@ -38,10 +42,6 @@ Welcome to **Longevity Uncapped**, a platform dedicated to empowering health and
 - Available exclusively for Longev Community members.
 - Start with a self-assessment provided by the bot.
 - Use the bot's guidance to set and achieve your personal longevity goals.
-
-# Video Walkthrough
-
-For a short video description of what I made and how, take a look at this YouTube link: https://youtube.com/shorts/xhoOs02_nOI?feature=share
 
 # Getting Started with Create React App
 
